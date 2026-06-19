@@ -8,11 +8,11 @@ This project was developed as part of a workshop landing page assignment for an 
 
 **Frontend (Vercel):**
 
-https://your-project.vercel.app
+https://workshop-landing-page-sigma.vercel.app
 
 **Backend API (Render):**
 
-https://your-backend.onrender.com
+https://workshop-landing-page1.onrender.com
 
 
 
@@ -109,13 +109,7 @@ Workshop_Landing_Page
 
 ##  Installation & Setup
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/your-username/Workshop_Landing_Page.git
-
-cd Workshop_Landing_Page
-```
 
 ### Frontend Setup
 
@@ -163,8 +157,8 @@ POST /api/enquiry
 
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Sarang",
+  "email": "Saru@example.com",
   "phone": "9876543210"
 }
 ```
@@ -189,7 +183,7 @@ POST /api/enquiry
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Hero Section
 
